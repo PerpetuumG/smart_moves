@@ -1,7 +1,7 @@
 $color-text: #555555;
 
 .banner {
-  background: url('../img/bg-man.jpg') center top no-repeat;
+  background: url('../../img/bg-man.jpg') center top no-repeat;
   background-size: cover;
 }
 
@@ -61,6 +61,11 @@ $color-text: #555555;
 
 
 @media (max-width: 980px) {
+  .banner__wrap {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   .banner {
     background: none;
   }
