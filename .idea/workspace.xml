@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bbf49c9-b9a3-40ab-8189-db85f11bf529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/blocks/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/blocks/menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/blocks/banner.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <updated>1595327550338</updated>
       <workItem from="1595327554298" duration="1109000" />
       <workItem from="1595397774445" duration="138000" />
-      <workItem from="1595400946090" duration="9332000" />
+      <workItem from="1595400946090" duration="16307000" />
     </task>
     <servers />
   </component>
