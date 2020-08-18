@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bbf49c9-b9a3-40ab-8189-db85f11bf529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/blocks/advantages.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/blocks/banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,12 +81,25 @@
       <workItem from="1595397774445" duration="138000" />
       <workItem from="1595400946090" duration="16307000" />
       <workItem from="1595433233209" duration="11000" />
-      <workItem from="1595433246290" duration="6453000" />
+      <workItem from="1595433246290" duration="6672000" />
+      <workItem from="1595867514219" duration="41000" />
+      <workItem from="1595867607738" duration="20000" />
+      <workItem from="1595867830384" duration="16000" />
+      <workItem from="1595868017919" duration="142000" />
+      <workItem from="1596553848271" duration="290000" />
+      <workItem from="1596554228406" duration="225000" />
+      <workItem from="1597503144479" duration="43000" />
+      <workItem from="1597503238546" duration="108000" />
+      <workItem from="1597503373247" duration="38000" />
+      <workItem from="1597503460333" duration="95000" />
+      <workItem from="1597503793909" duration="19000" />
+      <workItem from="1597743823659" duration="26000" />
+      <workItem from="1597743871857" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -103,6 +114,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="188" key="#Notifications" timestamp="1597743839966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597743839966" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596553906033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1596553906033" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1595433242690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
