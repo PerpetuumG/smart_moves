@@ -24,11 +24,9 @@
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/js/all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/all.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/js/all.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/all.min.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/blocks/progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/progress.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/blocks/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/skills.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +103,8 @@
       <workItem from="1597743871857" duration="13381000" />
       <workItem from="1597759815405" duration="2660000" />
       <workItem from="1597780779435" duration="1949000" />
-      <workItem from="1597823313292" duration="5047000" />
+      <workItem from="1597823313292" duration="5122000" />
+      <workItem from="1597913365050" duration="1183000" />
     </task>
     <servers />
   </component>

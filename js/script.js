@@ -17,19 +17,14 @@ $(document).ready(function () {
             $(item).find(tooltip).show(animationLength);
         });
     }
-
     let animate = true;
 
-
     $(window).scroll(function () {
-
         if($('.skills').offset().top <= $(window).scrollTop() + 150) {
             if(animate) {
                 moveProgressBar('.progress__element', '.progress__line', '.progress__tooltip');
             }
             animate = false;
         }
-
     });
-
 });
