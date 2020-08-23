@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bbf49c9-b9a3-40ab-8189-db85f11bf529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/blocks/contacts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/blocks/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/blocks/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css.map" afterDir="false" />
@@ -106,7 +105,7 @@
       <workItem from="1597823313292" duration="5122000" />
       <workItem from="1597913365050" duration="9419000" />
       <workItem from="1597996374233" duration="7092000" />
-      <workItem from="1598186538158" duration="5954000" />
+      <workItem from="1598186538158" duration="7226000" />
     </task>
     <servers />
   </component>
